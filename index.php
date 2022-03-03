@@ -44,6 +44,7 @@
                 <div id="desc" style="display: block;font-size:2.2em; color:#fff; line-height:1.5em;">
                     从最底下的开始<br />
                     看你能得多少分<br />
+		    @イーリ<br />
                 </div>
                 <br />
                 <div id="btn_group" style="display: block;">
